@@ -1,7 +1,8 @@
 # Alen Varghese
 <p align="center">
   <img width="660" height="350" src="main.gif">
-</p>  
+</p>    
+
 
 <p align="center">**` "Jack of all trades, adept in quite a few." `**</p>  
 
