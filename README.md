@@ -1,5 +1,7 @@
 # Alen Varghese
-
+<p align="center">
+  <img width="560" height="400" src="main.gif">
+</p>
 **` "Jack of all trades, adept in quite a few." `**
 
 <p align="center">Hey there 👋 Welcome to my GitHub! I'm a person who likes to explore everything that the world has to offer in my own ways,Currently you could call me a Developer,Student,Editor,Blogger and Designer. </p>
