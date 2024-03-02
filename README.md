@@ -1,6 +1,6 @@
 # Alen Varghese
 <p align="center">
-  <img width="860" height="400" src="main.gif">
+  <img width="760" height="400" src="main.gif">
 </p>
 **` "Jack of all trades, adept in quite a few." `**
 
