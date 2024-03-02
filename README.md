@@ -1,4 +1,5 @@
 ### Hey, I'm Alen Varghese👋
+<hr>
 
 <p align="center">
   <img width="660" height="350" src="main.gif">
