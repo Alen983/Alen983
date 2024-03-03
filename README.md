@@ -26,7 +26,9 @@ Stuff(known or at least used):
    -  HTML,CSS
    - I'm stil figuring out JS.
 - PHP
-- MySQL
+- Backend:  
+  - MySQL
+-
   
 <!--
 **Alen983/Alen983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
