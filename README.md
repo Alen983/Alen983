@@ -17,13 +17,17 @@ Travelling through the technical world since 2020 and haven't had the chance to 
 ### 👨‍💻 Techie stuff!?
 
 Moderately good or you could say I understand what is written as code before it gets executed.🤞  
-Programming Languages(known or at least used):  
+Stuff(known or at least used):  
 - C
 - C++
 - Python
 - JAVA
-- Web Development:  HTML,CSS
-- I'm stil figuring out JS.
+- Web Development:
+   -  HTML,CSS
+   - I'm stil figuring out JS.
+- PHP
+- MySQL
+  
 <!--
 **Alen983/Alen983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
